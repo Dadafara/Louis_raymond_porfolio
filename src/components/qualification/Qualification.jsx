@@ -56,7 +56,7 @@ const Qualification = () => {
                   Optention displôme Master
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2021 - Present
+                  <i className="uil uil-calendar-alt"></i>2023
                 </div>
               </div>
               <div>
@@ -73,12 +73,12 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Ferber Enterprises</h3>
-                <span className="qualification__subtitle">
-                  developper backend
-                </span>
+                <h3 className="qualification__title">
+                  Ecole Nationale d'Informatique
+                </h3>
+                <span className="qualification__subtitle">Master 1</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2021 - Present
+                  <i className="uil uil-calendar-alt"></i>2021-2022
                 </div>
               </div>
             </div>
@@ -91,7 +91,7 @@ const Qualification = () => {
                 </h3>
                 <span className="qualification__subtitle">Lincence</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2021 - Present
+                  <i className="uil uil-calendar-alt"></i>2018 - 2021
                 </div>
               </div>
               <div>
@@ -108,10 +108,14 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Developper</h3>
-                <span className="qualification__subtitle">Vue.js</span>
+                <h3 className="qualification__title">
+                  Lycée RAHERIVELO RAMAMONJY
+                </h3>
+                <span className="qualification__subtitle">
+                  Baccalauréat Série D
+                </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2021 - Present
+                  <i className="uil uil-calendar-alt"></i>2017
                 </div>
               </div>
             </div>
@@ -126,14 +130,12 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">jlsjljlsjljjsljsljl</h3>
+                <h3 className="qualification__title">FERBER ENTERPRISES</h3>
                 <span className="qualification__subtitle">
-                  Optention displôme Master SQLLJQLSJLFJQMLSJLG JSQLMJGLJ
-                  SQMLJML SJDK MGGGGGGGGGGGGG GGGGGGGGGGGG GGGGGGGGGGGGGGG GGG
-                  GGGGG GGGEIM OIMIMO
+                  DEVELOPPER FULLSTACK
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2021 - Present
+                  <i className="uil uil-calendar-alt"></i>2023 - Present
                 </div>
               </div>
               <div>
@@ -141,7 +143,6 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
             </div>
-
             {/* education */}
             <div className="qualification__data">
               <div></div>
@@ -150,18 +151,20 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Ferber Enterprises</h3>
+                <h3 className="qualification__title">
+                  Ministère de l’Aménagement du Territoire et de Travaux Publics
+                  | MATP
+                </h3>
                 <span className="qualification__subtitle">
-                  developper backend
+                  Developper Backend
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i>2021 - Present
                 </div>
               </div>
             </div>
-
             {/* education */}
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">
                   Ecole Nationale D'informatique
@@ -175,10 +178,9 @@ const Qualification = () => {
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-            </div>
-
+            </div> */}
             {/* experience */}
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div></div>
               <div>
                 <span className="qualification__rounder"></span>
@@ -191,7 +193,7 @@ const Qualification = () => {
                   <i className="uil uil-calendar-alt"></i>2021 - Present
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

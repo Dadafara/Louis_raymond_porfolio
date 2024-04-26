@@ -56,7 +56,7 @@
   font-size: var(--small-font-size);
   display: inline-flex;
   align-items: center;
-  justify-content: center;
+  justify-content: right;
   column-gap: 0.25rem;
 }
 
@@ -84,7 +84,7 @@
 .contact__form-div {
   position: relative;
   margin-bottom: var(--mb-2);
-  height: 4rem;
+  height: 3.7rem;
 }
 
 .contact__form-input {

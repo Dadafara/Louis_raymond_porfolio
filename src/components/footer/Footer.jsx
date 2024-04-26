@@ -15,14 +15,21 @@ const Footer = () => {
               <i class="bx bxl-facebook"></i>
             </a>
             <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/philiberaymond"
               className="footer__social-link"
               target="blank"
             >
               <i class="bx bxl-instagram"></i>
             </a>
             <a
-              href="https://www.linkedin.com"
+              href="https://wa.me/qr/QALEAU2YCKXAH1"
+              className="footer__social-link"
+              target="blank"
+            >
+              <i class="bx bxl-whatsapp"></i>
+            </a>
+            <a
+              href="https://github.com/Dadafara"
               className="footer__social-link"
               target="blank"
             >
